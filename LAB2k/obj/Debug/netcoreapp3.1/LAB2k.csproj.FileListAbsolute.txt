@@ -1,0 +1,11 @@
+C:\Users\teat5\source\repos\LAB2k\LAB2k\bin\Debug\netcoreapp3.1\LAB2k.exe
+C:\Users\teat5\source\repos\LAB2k\LAB2k\bin\Debug\netcoreapp3.1\LAB2k.deps.json
+C:\Users\teat5\source\repos\LAB2k\LAB2k\bin\Debug\netcoreapp3.1\LAB2k.runtimeconfig.json
+C:\Users\teat5\source\repos\LAB2k\LAB2k\bin\Debug\netcoreapp3.1\LAB2k.runtimeconfig.dev.json
+C:\Users\teat5\source\repos\LAB2k\LAB2k\bin\Debug\netcoreapp3.1\LAB2k.dll
+C:\Users\teat5\source\repos\LAB2k\LAB2k\bin\Debug\netcoreapp3.1\LAB2k.pdb
+C:\Users\teat5\source\repos\LAB2k\LAB2k\obj\Debug\netcoreapp3.1\LAB2k.csprojAssemblyReference.cache
+C:\Users\teat5\source\repos\LAB2k\LAB2k\obj\Debug\netcoreapp3.1\LAB2k.AssemblyInfoInputs.cache
+C:\Users\teat5\source\repos\LAB2k\LAB2k\obj\Debug\netcoreapp3.1\LAB2k.AssemblyInfo.cs
+C:\Users\teat5\source\repos\LAB2k\LAB2k\obj\Debug\netcoreapp3.1\LAB2k.dll
+C:\Users\teat5\source\repos\LAB2k\LAB2k\obj\Debug\netcoreapp3.1\LAB2k.pdb
